@@ -2,7 +2,7 @@
 
 ### About The Business
 Glow Mantra is an Indian Direct-to-Consumer (D2C) beauty and personal care brand that offers a wide range of skincare, haircare, and wellness products to consumers across India. The company primarily sells its products through its own online store, allowing it to build direct relationships with customers and deliver a seamless shopping experience.
-
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### RTO Analysis Motive
 In Indian D2C and E Commerce space, Cash on Delivery (COD) remains an important payment option because it helps build trust among customers, especially first-time buyers, But it contributes to high Return to Origin (RTO) rates. When a COD order is placed but the customer refuses to accept it at the doorstep, the product is returned. We lose money on two-way shipping, packaging, and the product often gets damaged in transit.
 
