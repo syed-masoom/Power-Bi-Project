@@ -17,12 +17,28 @@ Customer behavior is often uncertain and difficult to predict, making it challen
 
 The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to understand customer purchasing behavior, identify valuable customer segments, detect at-risk customers, and uncover opportunities to improve customer retention and revenue growth. This analysis will help diagnose and evaluate the sales performance of Glow Mantra Beauty and support data-driven customer engagement strategies.
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
 ### Sales RTO Dashboard
 ![RTO Dashboard](13.%20RTO%20Dashboard.png)
+
+### Brakdown of Sales RTO Analysis
+RTO KPIs
+Total RTO Orders - 625
+Lost Revenue - 426k
+Lost Profit - 310k
+AoV - 682
+RTO Rate - 14%
+
+RTO Order By Acquisition channel and Payment Mode
+Cash On Delivery is Contributing Almost 90% of RTO Orders.
+
+
+Discount Cannibalization
+
+Top Products By RTO 
+
+Delivered, Cancelled and RTO Order Rate By Region
+
+RTO Order Trend
 
 ### Customer RFM Dashboard
 ![Customer RFM Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/14.%20Customer%20Cohort%20Dashboard.png?raw=true)
