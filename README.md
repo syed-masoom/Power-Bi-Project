@@ -16,7 +16,7 @@ So this is the overall Motive of this Analyisis to Diagnose RTO sales orders of 
 RTO and Customers RFM Analysis of Indian D2C Brand called Glow Mantra which sell beauty and personal care products to the mass consumers and they mostly sell their product through their own online[...]
 
 
-### RTO Dashboard
+### Sales RTO Dashboard
 ![RTO Dashboard](13.%20RTO%20Dashboard.png)
 
 ### Customer RFM Dashboard
