@@ -26,15 +26,6 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | :--- | :--- | :--- | :--- | ---: |
 | 625 | 426k | 310k | 682 | 14%|
 
-Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate |
-| 625 | 426k | 310k | 682 | 14%|
-
-Total RTO Orders - 625
-Lost Revenue - 426k
-Lost Profit - 310k
-AoV - 682
-RTO Rate - 14%
-
 RTO Order By Acquisition channel and Payment Mode
 Cash On Delivery is Contributing Almost 90% of RTO Orders.
 
