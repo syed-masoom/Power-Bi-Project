@@ -22,6 +22,9 @@ The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to 
 
 ### Brakdown of Sales RTO Analysis
 RTO KPIs
+Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
+|625||426k||310k||682||14%|
+
 Total RTO Orders - 625
 Lost Revenue - 426k
 Lost Profit - 310k
