@@ -1,5 +1,8 @@
 # Power Bi RTO & Customers RFM Analysis Project
 
+### About The Business
+Glow Mantra is an Indian Direct-to-Consumer (D2C) beauty and personal care brand that offers a wide range of skincare, haircare, and wellness products to consumers across India. The company primarily sells its products through its own online store, allowing it to build direct relationships with customers and deliver a seamless shopping experience.
+
 ### RTO Analysis Motive
 In Indian D2C and E Commerce space, Cash on Delivery (COD) remains an important payment option because it helps build trust among customers, especially first-time buyers, But it contributes to high Return to Origin (RTO) rates. When a COD order is placed but the customer refuses to accept it at the doorstep, the product is returned. We lose money on two-way shipping, packaging, and the product often gets damaged in transit.
 
@@ -14,8 +17,8 @@ Customer behavior is often uncertain and difficult to predict, making it challen
 
 The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to understand customer purchasing behavior, identify valuable customer segments, detect at-risk customers, and uncover opportunities to improve customer retention and revenue growth. This analysis will help diagnose and evaluate the sales performance of Glow Mantra Beauty and support data-driven customer engagement strategies.
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About This Analysis
-RTO and Customers RFM Analysis of Indian D2C Brand called Glow Mantra which sell beauty and personal care products to the mass consumers and they mostly sell their product through their own online store.
+
+
 
 
 ### Sales RTO Dashboard
