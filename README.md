@@ -19,10 +19,5 @@ RTO and Customers RFM Analysis of Indian D2C Brand called Glow Mantra which sell
 ### Sales RTO Dashboard
 ![RTO Dashboard](13.%20RTO%20Dashboard.png)
 
-### Customer RFM Dashboard
-![Customer Cohort Dashboard](14.%20CustomerCohort%20Dashboard.png)
-
 ![Customer RFM Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/14.%20Customer%20Cohort%20Dashboard.png?raw=true)
 
-### Customer Cohort Dashboard
-![Customer Cohort Dashboard](14.%20CustomerCohort%20Dashboard.png)
