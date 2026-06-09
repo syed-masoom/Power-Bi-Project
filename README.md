@@ -27,12 +27,14 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | :--- | :--- | :--- | :--- | ---: |
 | 625 | ₹426k | ₹310k | ₹682 | 14% |
 
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### RTO Order By Acquisition channel and Payment Mode
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Order%20By%20Acquisition%20Channel%20&%20Pay%20Mode.png?raw=true)
 
 * This Stacked bar chart is showing the RTO Orders Percent by across all the Acquisition channel and payment mode
 * This is clearly showing Cash On Delivery is Contributing Almost 80% - 97% of RTO Orders across all Acquisition channel.
 
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Discount Cannibalization
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Discount%20Cannibalization.png?raw=true)
 
@@ -47,12 +49,15 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 * Most of the RTO Orders are high Gross Margin Products and High AoV.
 * This can lead to squeze our Profit Margin
 
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Top Products By RTO 
 
 The Top RTO Products RTO Rate is Between 12% - 17%
 
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Delivered, Cancelled and RTO Order Rate By Region
 
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### RTO Order Trend
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Trend.png?raw=true)
 
