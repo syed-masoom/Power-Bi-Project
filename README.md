@@ -40,8 +40,6 @@ We gave the Discount to high margin product
 | NEW20 | ₹620.43 | 94.41% | 120 |
 | GLOW10 | ₹681.35 | 94.91% | 206 |
 
-
-
 ### Top Products By RTO 
 
 
