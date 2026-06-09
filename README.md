@@ -35,10 +35,10 @@ We gave the Discount to high margin product
 
 | Coupon Code | AoV | Gross Margin | Total Orders |
 | :--- | :--- | :--- | ---: |
-| None | ₹783.47 | 96.09% | 177 |
-| Festive15 | ₹598.18 | 95.43% | 122 |
-| New20 | ₹620.43 | 94.41% | 120 |
-| Glow10 | ₹681.35 | 94.91% | 206 |
+| NONE | ₹783.47 | 96.09% | 177 |
+| FESTIVE15 | ₹598.18 | 95.43% | 122 |
+| NEW20 | ₹620.43 | 94.41% | 120 |
+| GLOW10 | ₹681.35 | 94.91% | 206 |
 
 
 
