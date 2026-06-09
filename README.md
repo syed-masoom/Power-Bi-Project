@@ -54,6 +54,8 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 * Cash on Delivery (COD) is the major contributor to RTO orders across all channels, accounting for approximately **88%–94%** of total RTOs.
 * Facebook Ads has the highest COD-related RTO contribution (**94.12%**), followed by Google Search (**92.44%**).
 * Prepaid payment methods such as **UPI, Credit/Debit Cards, and Wallets** contribute only a small share of RTO orders.
+
+  ### 📌 Business Conclusion
 * The analysis indicates that encouraging prepaid payments and reducing dependency on COD can significantly lower RTO losses and improve profitability.
 
 
@@ -79,7 +81,7 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 ### 📌 Business Conclusion
 
-The **NONE** segment delivers the highest profitability, while **GLOW10** generates the highest sales volume. Discounts should be used strategically because excessive couponing can lower Average Order Value and squeeze profit margins without creating substantial business growth. Optimizing coupon usage can help improve both revenue and profitability.
+* The **NONE** segment delivers the highest profitability, while **GLOW10** generates the highest sales volume. Discounts should be used strategically because excessive couponing can lower Average Order Value and squeeze profit margins without creating substantial business growth. Optimizing coupon usage can help improve both revenue and profitability.
 
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
