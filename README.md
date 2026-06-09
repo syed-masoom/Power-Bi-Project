@@ -48,14 +48,14 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 ## 📊 RTO Dashboard KPIs – Breakdown
 
 * **🚚 Total RTO Orders: 625**
-* **Insight:** A total of **625 orders** were returned, contributing directly to revenue and profit losses.
+* **Insight:** A total of **625 orders** and **14%** Of total were returned, contributing directly to revenue and profit losses.
   
 * **💸 Lost Revenue: ₹426K**
-* **Insight:** The business lost approximately **₹426,000 in revenue** and **17%** of total from orders that were shipped but ultimately returned.
+* **Insight:** The business lost approximately **₹426,000 in revenue** and **17.06%** of total from orders that were shipped but ultimately returned.
 
 
 * **📉 Lost Profit: ₹310K**
-* **Insight:** RTO orders resulted in an estimated **₹310,000 profit loss**, and **17%** of total significantly impacting overall business profitability.
+* **Insight:** RTO orders resulted in an estimated **₹310,000 profit loss**, and **17.08%** of total significantly impacting overall business profitability.
 
 
 * **🛒 Average Order Value (AOV): ₹682**
