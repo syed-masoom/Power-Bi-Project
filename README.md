@@ -94,6 +94,10 @@ The **NONE** segment delivers the highest profitability, while **GLOW10** genera
 * Both **Hair Care** and **Skincare** products appear frequently in the list, indicating that these categories require closer monitoring.
 * High-demand products with consistently high RTO rates can significantly increase shipping, packaging, and operational costs.
 
+📌 Business Conclusion
+
+A small group of products is responsible for a large share of RTO losses. These products should be prioritized for deeper investigation to identify potential issues related to customer expectations, pricing, delivery experience, or product communication. Reducing RTO rates for these products can have a direct positive impact on revenue, profitability, and operational efficiency.
+
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Delivered, Cancelled and RTO Order Rate By Region
 
