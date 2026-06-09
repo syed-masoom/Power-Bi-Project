@@ -50,9 +50,6 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Order%20By%20Acquisition%20Channel%20&%20Pay%20Mode.png?raw=true)
 
 * ### Key Insights
-* This Stacked bar chart is showing the RTO Orders Percent by across all the Acquisition channel and payment mode
-* This is clearly showing Cash On Delivery is Contributing Almost 80% - 97% of RTO Orders across all Acquisition channel.
-
 * This chart shows the distribution of RTO orders across acquisition channels and payment methods.
 * Cash on Delivery (COD) is the major contributor to RTO orders across all channels, accounting for approximately **88%–94%** of total RTOs.
 * Facebook Ads has the highest COD-related RTO contribution (**94.12%**), followed by Google Search (**92.44%**).
