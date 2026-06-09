@@ -28,6 +28,7 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | 625 | ₹426k | ₹310k | ₹682 | 14% |
 
 ### RTO Order By Acquisition channel and Payment Mode
+![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Order%20By%20Acquisition%20Channel%20&%20Pay%20Mode.png?raw=true)
 * This Stacked bar chart is showing the RTO Orders Percent by across all the Acquisition channel and payment mode
 * This is clearly showing Cash On Delivery is Contributing Almost 80% - 97% of RTO Orders across all Acquisition channel.
 
