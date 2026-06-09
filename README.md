@@ -18,7 +18,7 @@ Customer behavior is often uncertain and difficult to predict, making it challen
 The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to understand customer purchasing behavior, identify valuable customer segments, detect at-risk customers, and uncover opportunities to improve customer retention and revenue growth. This analysis will help diagnose and evaluate the sales performance of Glow Mantra Beauty and support data-driven customer engagement strategies.
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sales RTO Dashboard
-![RTO Dashboard](13.%20RTO%20Dashboard.png)
+![RTO Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/Sales%20RTO%20Dashboard.png?raw=true)
 
 ### Brakdown of Sales RTO Analysis
 RTO KPIs
