@@ -47,27 +47,26 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 ## 📊 RTO Dashboard KPIs – Breakdown
 
-* 🚚 Total RTO Orders: 625
-**Insight:** A total of **625 orders** were returned, contributing directly to revenue and profit losses.
+* **🚚 Total RTO Orders: 625**
+* **Insight:** A total of **625 orders** were returned, contributing directly to revenue and profit losses.
   
-**💸 Lost Revenue: ₹426K**
-**Insight:** The business lost approximately **₹426,000 in revenue** and **17%** of total from orders that were shipped but ultimately returned.
+* **💸 Lost Revenue: ₹426K**
+* **Insight:** The business lost approximately **₹426,000 in revenue** and **17%** of total from orders that were shipped but ultimately returned.
 
 
-**📉 Lost Profit: ₹310K**
-**Insight:** RTO orders resulted in an estimated **₹310,000 profit loss**, and **17%** of total significantly impacting overall business profitability.
+* **📉 Lost Profit: ₹310K**
+* **Insight:** RTO orders resulted in an estimated **₹310,000 profit loss**, and **17%** of total significantly impacting overall business profitability.
 
 
-**🛒 Average Order Value (AOV): ₹682**
-**Insight:** On average, each returned order was worth **₹682**, indicating that high-value orders are also contributing to RTO losses.
+* **🛒 Average Order Value (AOV): ₹682**
+* **Insight:** On average, each returned order was worth **₹682**, indicating that high-value orders are also contributing to RTO losses.
 
 
-**📦 RTO Rate: 14%**
-RTO Rate shows the percentage of total orders that were returned to the origin.
-**Insight:** Approximately **14 out of every 100 orders** placed were returned, highlighting a significant operational and profitability challenge.
+* **📦 RTO Rate: 14%**
+* **Insight:** Approximately **14 out of every 100 orders** placed were returned, highlighting a significant operational and profitability challenge.
 
 ## 📌 Business Summary
-The dashboard shows that **625 RTO orders** resulted in approximately **₹426K revenue loss** and **₹310K profit loss**. With an overall **RTO rate of 14%** and an average order value of **₹682**, reducing RTO orders can have a substantial positive impact on business profitability and operational efficiency.
+* The dashboard shows that **625 RTO orders** resulted in approximately **₹426K revenue loss** and **₹310K profit loss**. With an overall **RTO rate of 14%** and an average order value of **₹682**, reducing RTO orders can have a substantial positive impact on business profitability and operational efficiency.
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### RTO Order By Acquisition channel and Payment Mode
