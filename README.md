@@ -58,7 +58,7 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Discount Cannibalization
+### 💰 Discount Cannibalization Analysis
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Discount%20Cannibalization.png?raw=true)
 
 | Coupon Code | AoV | Gross Margin | Total Orders |
@@ -68,17 +68,25 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | NEW20 | ₹620.43 | 94.41% | 120 |
 | GLOW10 | ₹681.35 | 94.91% | 206 |
 
-* Customers used the discount code with the High Margin Products.
-* Most of the RTO Orders are high Gross Margin Products and High AoV.
-* This can lead to squeze our Profit Margin
+### Key Insights
+
+* This visual evaluates the impact of different coupon codes on **Average Order Value (AOV)**, **Gross Margin**, and **Order Volume**.
+* Orders without any discount (**NONE**) generated the highest **AOV (₹783)** and **Gross Margin (96.09%)**, making them the most profitable.
+* **GLOW10** drove the highest number of orders (**206 orders**) while maintaining a relatively strong AOV (**₹681**), indicating it is the most effective coupon for driving sales volume.
+* **FESTIVE15** and **NEW20** reduced AOV to around **₹600–₹620** without delivering a significant increase in order volume.
+* Customers are frequently applying discount coupons to products that already have high margins and high order values, which can reduce overall profitability.
+* The analysis suggests that some discount campaigns may be cannibalizing revenue rather than generating additional incremental sales.
+
+### 📌 Business Conclusion
+
+The **NONE** segment delivers the highest profitability, while **GLOW10** generates the highest sales volume. Discounts should be used strategically because excessive couponing can lower Average Order Value and squeeze profit margins without creating substantial business growth. Optimizing coupon usage can help improve both revenue and profitability.
+
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Top Products By RTO 
+### 📦 Top Products by RTO
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/Top%20RTO%20Products.png?raw=true)
 
-The Top RTO Products RTO Rate is Between 12% - 17%
-
-### 📦 Top Products by RTO – Key Insights
+### Key Insights
 
 * This chart highlights the products with the highest Return-to-Origin (RTO) rates, ranging from **12.7% to 16.0%**.
 * **Keratin Smoothing Hair Mask** has the highest RTO rate (**16.03%**), followed closely by **Red Onion Seed Hair Oil 200ml (15.94%)** and **Kumkumadi Tailam Night Drops (15.51%)**.
