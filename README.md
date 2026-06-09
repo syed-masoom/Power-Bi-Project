@@ -117,15 +117,15 @@ A small group of products is responsible for a large share of RTO losses. These 
 | **Overall Average** | **79.33%** | **6.78%** | **13.89%** |
 
 ### 📊 Key Insights
-The overall business achieved a 79.33% delivery rate, while 13.89% of orders were returned (RTO) and 6.78% were cancelled.
-Karnataka (14.95%), Tamil Nadu (14.69%), and Haryana (14.53%) recorded the highest RTO rates, making them the largest contributors to RTO losses.
-Telangana (12.71%) and Maharashtra (12.64%) showed the lowest RTO rates and the highest delivery success rates, indicating better order fulfillment performance.
-West Bengal (8.43%) has the highest cancellation rate among all states, suggesting potential issues related to customer intent, delivery expectations, or order verification.
-States with higher RTO rates should be prioritized for deeper investigation to identify possible causes such as COD dependency, delivery challenges, customer behavior, or regional operational issues.
+* The overall business achieved a 79.33% delivery rate, while 13.89% of orders were returned (RTO) and 6.78% were cancelled.
+* Karnataka (14.95%), Tamil Nadu (14.69%), and Haryana (14.53%) recorded the highest RTO rates, making them the largest contributors to RTO losses.
+* Telangana (12.71%) and Maharashtra (12.64%) showed the lowest RTO rates and the highest delivery success rates, indicating better order fulfillment performance.
+* West Bengal (8.43%) has the highest cancellation rate among all states, suggesting potential issues related to customer intent, delivery expectations, or order verification.
+* States with higher RTO rates should be prioritized for deeper investigation to identify possible causes such as COD dependency, delivery challenges, customer behavior, or regional operational issues.
 
 ### 📌 Business Conclusion
 
-The analysis reveals significant variation in delivery and RTO performance across states. While Telangana and Maharashtra demonstrate strong fulfillment efficiency, Karnataka, Tamil Nadu, and Haryana experience relatively higher return rates. Focusing on high-RTO states through better COD verification, customer communication, and logistics optimization can help reduce losses and improve overall profitability.
+* The analysis reveals significant variation in delivery and RTO performance across states. While Telangana and Maharashtra demonstrate strong fulfillment efficiency, Karnataka, Tamil Nadu, and Haryana experience relatively higher return rates. Focusing on high-RTO states through better COD verification, customer communication, and logistics optimization can help reduce losses and improve overall profitability.
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📈 RTO Order Trend Analysis
