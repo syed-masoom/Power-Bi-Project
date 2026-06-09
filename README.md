@@ -34,7 +34,7 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 * This is clearly showing Cash On Delivery is Contributing Almost 80% - 97% of RTO Orders across all Acquisition channel.
 
 ### Discount Cannibalization
-![Image Alt](
+![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Discount%20Cannibalization.png?raw=true)
 
 | Coupon Code | AoV | Gross Margin | Total Orders |
 | :--- | :--- | :--- | ---: |
