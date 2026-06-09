@@ -36,14 +36,47 @@ The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to 
 
 <br><br id="projects-section">
 
-### Sales RTO Dashboard
+### 🚚 Sales RTO Dashboard
 ![RTO Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/Sales%20RTO%20Dashboard.png?raw=true)
 
 ### Brakdown of Sales RTO Analysis
-RTO KPIs
+### Sales RTO KPIs
 Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | :--- | :--- | :--- | :--- | ---: |
 | 625 | ₹426k | ₹310k | ₹682 | 14% |
+
+## 📊 RTO Dashboard KPIs – Breakdown
+
+**Insight:** A total of **625 orders** were returned, contributing directly to revenue and profit losses.
+
+---
+
+**Insight:** The business lost approximately **₹426,000 in revenue** and **17%** of total from orders that were shipped but ultimately returned.
+
+---
+
+**Insight:** RTO orders resulted in an estimated **₹310,000 profit loss**, and **17%** of total significantly impacting overall business profitability.
+
+---
+
+🛒 Average Order Value (AOV): ₹682
+
+AOV measures the average value of each RTO order.
+
+**Insight:** On average, each returned order was worth **₹682**, indicating that high-value orders are also contributing to RTO losses.
+
+---
+
+RTO Rate shows the percentage of total orders that were returned to the origin.
+
+**Insight:** Approximately **14 out of every 100 orders** placed were returned, highlighting a significant operational and profitability challenge.
+
+---
+
+## 📌 Business Summary
+
+The dashboard shows that **625 RTO orders** resulted in approximately **₹426K revenue loss** and **₹310K profit loss**. With an overall **RTO rate of 14%** and an average order value of **₹682**, reducing RTO orders can have a substantial positive impact on business profitability and operational efficiency.
+
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### RTO Order By Acquisition channel and Payment Mode
