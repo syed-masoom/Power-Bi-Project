@@ -24,13 +24,22 @@ The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to 
 RTO KPIs
 Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | :--- | :--- | :--- | :--- | ---: |
-| 625 | 426k | 310k | 682 | 14% |
+| 625 | ₹426k | ₹310k | ₹682 | 14% |
 
 ### RTO Order By Acquisition channel and Payment Mode
 * This Stacked bar chart is showing the RTO Orders Percent by across all the Acquisition channel and payment mode
 * This is clearly showing Cash On Delivery is Contributing Almost 80% - 97% of RTO Orders across all Acquisition channel.
 
 ### Discount Cannibalization
+We gave the Discount to high margin product 
+
+| Coupon Code | AoV | Gross Margin | Total Orders |
+| :--- | :--- | :--- | ---: |
+| None | ₹783.47 | 96.09% | 177 |
+| Festive15 | ₹598.18 | 95.43% | 122 |
+| New20 | ₹620.43 | 94.41% | 120 |
+| Glow10 | ₹681.35 | 94.91% | 206 |
+
 
 
 ### Top Products By RTO 
