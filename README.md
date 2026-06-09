@@ -24,21 +24,23 @@ The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to 
 RTO KPIs
 Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 | :--- | :--- | :--- | :--- | ---: |
-| 625 | 426k | 310k | 682 | 14%|
+| 625 | 426k | 310k | 682 | 14% |
 
 ### RTO Order By Acquisition channel and Payment Mode
 * This Stacked bar chart is showing the RTO Orders Percent by across all the Acquisition channel and payment mode
 * This is clearly showing Cash On Delivery is Contributing Almost 80% - 97% of RTO Orders across all Acquisition channel.
 
+### Discount Cannibalization
 
-Discount Cannibalization
 
-Top Products By RTO 
+### Top Products By RTO 
 
-Delivered, Cancelled and RTO Order Rate By Region
 
-RTO Order Trend
+### Delivered, Cancelled and RTO Order Rate By Region
 
+### RTO Order Trend
+
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Customer RFM Dashboard
 ![Customer RFM Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/14.%20Customer%20Cohort%20Dashboard.png?raw=true)
 
