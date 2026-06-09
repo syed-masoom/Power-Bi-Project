@@ -78,6 +78,14 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 The Top RTO Products RTO Rate is Between 12% - 17%
 
+### 📦 Top Products by RTO – Key Insights
+
+* This chart highlights the products with the highest Return-to-Origin (RTO) rates, ranging from **12.7% to 16.0%**.
+* **Keratin Smoothing Hair Mask** has the highest RTO rate (**16.03%**), followed closely by **Red Onion Seed Hair Oil 200ml (15.94%)** and **Kumkumadi Tailam Night Drops (15.51%)**.
+* The top 10 products all have RTO rates above the overall business average (**14% RTO Rate**), making them major contributors to revenue and profit loss.
+* Both **Hair Care** and **Skincare** products appear frequently in the list, indicating that these categories require closer monitoring.
+* High-demand products with consistently high RTO rates can significantly increase shipping, packaging, and operational costs.
+
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Delivered, Cancelled and RTO Order Rate By Region
 
