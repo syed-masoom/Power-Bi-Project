@@ -23,15 +23,15 @@ The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to 
 
 <p align="center">
   
-  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">2. Data Collection</kbd> ➔
-  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. Power Bi</kbd> ➔
-  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. DAX</kbd> ➔
-  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. Data Modelling</kbd> ➔
-  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">3. Data Cleaning</kbd> ➔
-  <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">4. Data Analysis</kbd> <br><br>➔
-  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">5. Visualization</kbd> ➔
-  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">6. Business Insights</kbd> ➔
-  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">7. Decision Making</kbd>
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">Data Collection</kbd> ➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">Power Bi</kbd> ➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">DAX</kbd> ➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">Data Modelling</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">Data Cleaning</kbd> ➔
+  <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">Data Analysis</kbd> <br><br>➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">Visualization</kbd> ➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">Business Insights</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">Decision Making</kbd>
 </p>
 
 <br><br id="projects-section">
