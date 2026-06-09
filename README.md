@@ -18,6 +18,24 @@ Customer behavior is often uncertain and difficult to predict, making it challen
 
 The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to understand customer purchasing behavior, identify valuable customer segments, detect at-risk customers, and uncover opportunities to improve customer retention and revenue growth. This analysis will help diagnose and evaluate the sales performance of Glow Mantra Beauty and support data-driven customer engagement strategies.
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- Skill Used in This Analysis -->
+<h2 align="center" style="color: #06B6D4;">✦ Skill Used In This Analysis ✦</h2>
+
+<p align="center">
+  
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">2. Data Collection</kbd> ➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. Power Bi</kbd> ➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. DAX</kbd> ➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">1. Data Modelling</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">3. Data Cleaning</kbd> ➔
+  <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">4. Data Analysis</kbd> <br><br>➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">5. Visualization</kbd> ➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">6. Business Insights</kbd> ➔
+  <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">7. Decision Making</kbd>
+</p>
+
+<br><br id="projects-section">
+
 ### Sales RTO Dashboard
 ![RTO Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/Sales%20RTO%20Dashboard.png?raw=true)
 
