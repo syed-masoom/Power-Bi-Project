@@ -98,8 +98,21 @@ The **NONE** segment delivers the highest profitability, while **GLOW10** genera
 ### Delivered, Cancelled and RTO Order Rate By Region
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### RTO Order Trend
+### 📈 RTO Order Trend Analysis
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Trend.png?raw=true)
+
+### Key Insights
+
+* This visual shows the monthly trend of the **RTO Rate (%)** throughout the year.
+* The overall RTO rate fluctuates between **12.57% and 15.62%**, indicating a relatively consistent level of returns across the year.
+* **January (15.62%)** recorded the highest RTO rate, followed by **October (14.94%)** and **April (14.93%)**.
+* The lowest RTO rates were observed in **July (12.57%)**, **May (12.66%)**, and **March (12.70%)**.
+* RTO rates tend to increase during certain months, suggesting possible impacts from seasonal demand, promotional campaigns, or changes in customer purchasing behavior.
+* Despite monthly fluctuations, the RTO rate remains above 12% throughout the year, highlighting an ongoing operational challenge.
+
+### 📌 Business Conclusion
+
+The RTO trend remains consistently high across all months, with noticeable spikes in January, April, and October. These peak periods should be investigated further to identify potential causes such as increased COD orders, promotional campaigns, or delivery-related issues. Reducing RTO during these high-risk months can significantly improve revenue retention and profitability.
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Customer RFM Dashboard
