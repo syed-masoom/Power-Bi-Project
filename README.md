@@ -54,6 +54,7 @@ The Top RTO Products RTO Rate is Between 12% - 17%
 ### Delivered, Cancelled and RTO Order Rate By Region
 
 ### RTO Order Trend
+![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Trend.png?raw=true)
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Customer RFM Dashboard
