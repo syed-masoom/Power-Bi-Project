@@ -51,6 +51,7 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Top Products By RTO 
+![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/Top%20RTO%20Products.png?raw=true)
 
 The Top RTO Products RTO Rate is Between 12% - 17%
 
