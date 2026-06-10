@@ -28,9 +28,14 @@ The primary objective of this RFM (Recency, Frequency, Monetary) Analysis is to 
   <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">DAX</kbd> ➔
   <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">Data Modelling</kbd> ➔
   <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">Data Cleaning</kbd> ➔
+   <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">Customer Segmentation</kbd> <br><br>➔
+  <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">Business Analysis</kbd> ➔
   <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">Data Analysis</kbd> <br><br>➔
-  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">Visualization</kbd> ➔
+   <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">eCommerce Analtics</kbd> <br><br>➔
+    <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">Sales Analytics</kbd> <br><br>➔
+  <kbd style="background-color:#111827; color:#3B82F6; padding:10px; border-radius:5px;">Power BI Dashboard Development</kbd> ➔
   <kbd style="background-color:#111827; color:#06B6D4; padding:10px; border-radius:5px;">Business Insights</kbd> ➔
+   <kbd style="background-color:#111827; color:#7C3AED; padding:10px; border-radius:5px;">Data Storytelling</kbd> <br><br>➔
   <kbd style="background-color:#111827; color:#10B981; padding:10px; border-radius:5px;">Decision Making</kbd>
 </p>
 
@@ -168,4 +173,23 @@ A small group of products is responsible for a large share of RTO losses. These 
 The RTO trend remains consistently high across all months, with noticeable spikes in January, April, and October. These peak periods should be investigated further to identify potential causes such as increased COD orders, promotional campaigns, or delivery-related issues. Reducing RTO during these high-risk months can significantly improve revenue retention and profitability.
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📌 Overall Business Conclusion
 
+The analysis shows that Glow Mantra is losing a significant amount of revenue and profit due to a high **RTO rate of 14%**. Most RTO orders come from **Cash on Delivery (COD)** payments, making COD the biggest contributor to business losses.
+
+Several high-selling and high-margin products also have high RTO rates, increasing the financial impact. In addition, some discount campaigns are reducing profit margins without generating substantial business growth.
+
+States such as **Karnataka, Tamil Nadu, and Haryana** have higher-than-average RTO rates and require special attention.
+
+### 🚀 Recommended Action Plan
+
+* Encourage customers to use **prepaid payment methods** instead of COD.
+* Implement **OTP or WhatsApp verification** for COD orders.
+* Monitor and reduce RTO rates for high-risk products.
+* Improve targeting for Facebook and Instagram ad campaigns to attract higher-quality customers.
+* Review discount campaigns and avoid unnecessary discounts on high-demand products.
+* Focus on high-RTO states and improve delivery and verification processes.
+
+### 🎯 Final Recommendation
+
+Reducing COD-related RTO orders should be the top priority. Lowering the RTO rate will help recover lost revenue, improve profit margins, and increase overall business efficiency.
