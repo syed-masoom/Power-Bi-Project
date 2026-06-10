@@ -168,6 +168,4 @@ A small group of products is responsible for a large share of RTO losses. These 
 The RTO trend remains consistently high across all months, with noticeable spikes in January, April, and October. These peak periods should be investigated further to identify potential causes such as increased COD orders, promotional campaigns, or delivery-related issues. Reducing RTO during these high-risk months can significantly improve revenue retention and profitability.
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Customer RFM Dashboard
-![Customer RFM Dashboard](https://github.com/syed-masoom/Power-Bi-Project/blob/main/14.%20Customer%20Cohort%20Dashboard.png?raw=true)
 
