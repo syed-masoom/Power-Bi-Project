@@ -16,32 +16,32 @@ The primary objective of this RTO Analysis is to understand the key drivers behi
 
 <h2 align="center" style="color: #06B6D4;">✦ Skill Used In This Analysis ✦</h2>
 
-## 📊 Data Analytics & Business Intelligence
+### 📊 Data Analytics & Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Insights-success?style=for-the-badge)
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-Decision_Making-orange?style=for-the-badge)
 
-## 🧹 Data Preparation
+### 🧹 Data Preparation
 
 ![Data Collection](https://img.shields.io/badge/Data_Collection-Data_Gathering-blue?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Data_Quality-success?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star_Schema-orange?style=for-the-badge)
 
-## 📈 eCommerce Analysis
+### 📈 eCommerce Analysis
 
 ![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-Revenue_Insights-green?style=for-the-badge)
 ![eCommerce Analytics](https://img.shields.io/badge/eCommerce_Analytics-Business_Performance-blue?style=for-the-badge)
 ![Sales RTO Analysis](https://img.shields.io/badge/Sales_RTO_Analysis-Returned_Orders-purple?style=for-the-badge)
 
-## 📊 Dashboard Development
+### 📊 Dashboard Development
 
 ![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-Power_BI-yellow?style=for-the-badge)
 ![Business Insights](https://img.shields.io/badge/Business_Insights-Actionable_Insights-success?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Visualization-blueviolet?style=for-the-badge)
 
-## 🎯 Business Impact
+### 🎯 Business Impact
 
 ![Decision Making](https://img.shields.io/badge/Decision_Making-Data_Driven-red?style=for-the-badge)
 ![Profitability Analysis](https://img.shields.io/badge/Profitability_Analysis-RTO_Insights-orange?style=for-the-badge)
