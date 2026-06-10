@@ -33,7 +33,7 @@ The primary objective of this RTO Analysis is to understand the key drivers behi
 
 ![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-Revenue_Insights-green?style=for-the-badge)
 ![eCommerce Analytics](https://img.shields.io/badge/eCommerce_Analytics-Business_Performance-blue?style=for-the-badge)
-![Sales RTO Analysis](https://img.shields.io/badge/Sales_RTO-Analysis-purple?style=for-the-badge)
+![Sales RTO Analysis](https://img.shields.io/badge/Sales_RTO_Analysis-Returned_Orders-purple?style=for-the-badge)
 
 ## 📊 Dashboard Development
 
