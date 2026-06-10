@@ -13,6 +13,73 @@ The primary objective of this RTO Analysis is to understand the key drivers behi
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- Skill Used in This Analysis -->
+
+# 🛠️ Skills & Technologies Used
+
+## 📊 Data Analytics & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Insights-success?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-Decision_Making-orange?style=for-the-badge)
+
+---
+
+## 🧹 Data Preparation
+
+![Data Collection](https://img.shields.io/badge/Data_Collection-Data_Gathering-blue?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Data_Quality-success?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star_Schema-orange?style=for-the-badge)
+
+---
+
+## 📈 eCommerce & Customer Analytics
+
+![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-Revenue_Insights-green?style=for-the-badge)
+![eCommerce Analytics](https://img.shields.io/badge/eCommerce_Analytics-Business_Performance-blue?style=for-the-badge)
+![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-RFM_Analysis-purple?style=for-the-badge)
+
+---
+
+## 📊 Dashboard Development
+
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-Power_BI-yellow?style=for-the-badge)
+![Business Insights](https://img.shields.io/badge/Business_Insights-Actionable_Insights-success?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Visualization-blueviolet?style=for-the-badge)
+
+---
+
+## 🎯 Business Impact
+
+![Decision Making](https://img.shields.io/badge/Decision_Making-Data_Driven-red?style=for-the-badge)
+![Profitability Analysis](https://img.shields.io/badge/Profitability_Analysis-RTO_Insights-orange?style=for-the-badge)
+![Customer Retention](https://img.shields.io/badge/Customer_Retention-RFM_Strategy-green?style=for-the-badge)
+
+---
+
+### 🔄 Analysis Workflow
+
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Modeling
+      ↓
+DAX Calculations
+      ↓
+Dashboard Development
+      ↓
+Business Analysis
+      ↓
+eCommerce Analysis
+      ↓
+Sales & RTO Analysis
+      ↓
+Business Insights & Recommendations
+```
+
+-- ----------------------------------------------------------------------------------
 <h2 align="center" style="color: #06B6D4;">✦ Skill Used In This Analysis ✦</h2>
 
 <p align="center">
