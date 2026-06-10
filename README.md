@@ -1,4 +1,4 @@
-# Power Bi RTO & Customers RFM Analysis Project
+# Power Bi D2C Beauty Brand RTO Analysis Project
 
 ### About The Business
 Glow Mantra is an Indian Direct-to-Consumer (D2C) beauty and personal care brand that offers a wide range of skincare, haircare, and wellness products to consumers across India. The company primarily sells its products through its own online store, allowing it to build direct relationships with customers and deliver a seamless shopping experience.
