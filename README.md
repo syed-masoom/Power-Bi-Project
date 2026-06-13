@@ -82,10 +82,11 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### RTO Order By Acquisition channel and Payment Mode
+* This chart shows the distribution of RTO orders across acquisition channels and payment methods.
+
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Order%20By%20Acquisition%20Channel%20&%20Pay%20Mode.png?raw=true)
 
 * ### Key Insights
-* This chart shows the distribution of RTO orders across acquisition channels and payment methods.
 * Cash on Delivery (COD) is the major contributor to RTO orders across all channels, accounting for approximately **88%–94%** of total RTOs.
 * Facebook Ads has the highest COD-related RTO contribution (**94.12%**), followed by Google Search (**92.44%**).
 * Prepaid payment methods such as **UPI, Credit/Debit Cards, and Wallets** contribute only a small share of RTO orders.
@@ -96,6 +97,9 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 💰 Discount Cannibalization Analysis
+
+* This visual evaluates the impact of different coupon codes on **Average Order Value (AOV)**, **Gross Margin**, and **Order Volume**.
+
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Discount%20Cannibalization.png?raw=true)
 
 | Coupon Code | AoV | Gross Margin | Total Orders |
@@ -107,7 +111,6 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 ### Key Insights
 
-* This visual evaluates the impact of different coupon codes on **Average Order Value (AOV)**, **Gross Margin**, and **Order Volume**.
 * Orders without any discount (**NONE**) generated the highest **AOV (₹783)** and **Gross Margin (96.09%)**, making them the most profitable.
 * **GLOW10** drove the highest number of orders (**206 orders**) while maintaining a relatively strong AOV (**₹681**), indicating it is the most effective coupon for driving sales volume.
 * **FESTIVE15** and **NEW20** reduced AOV to around **₹600–₹620** without delivering a significant increase in order volume.
@@ -121,11 +124,12 @@ Total RTO Orders | Lost Revenue | Lost Profit | AoV | RTO Rate
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📦 Top Products by RTO
+* This chart highlights the products with the highest Return-to-Origin (RTO) rates, ranging from **12.7% to 16.0%**.
+
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/Top%20RTO%20Products.png?raw=true)
 
 ### Key Insights
 
-* This chart highlights the products with the highest Return-to-Origin (RTO) rates, ranging from **12.7% to 16.0%**.
 * **Keratin Smoothing Hair Mask** has the highest RTO rate (**16.03%**), followed closely by **Red Onion Seed Hair Oil 200ml (15.94%)** and **Kumkumadi Tailam Night Drops (15.51%)**.
 * The top 10 products all have RTO rates above the overall business average (**14% RTO Rate**), making them major contributors to revenue and profit loss.
 * Both **Hair Care** and **Skincare** products appear frequently in the list, indicating that these categories require closer monitoring.
@@ -164,11 +168,12 @@ A small group of products is responsible for a large share of RTO losses. These 
 
 -- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📈 RTO Order Trend Analysis
+* This visual shows the monthly trend of the **RTO Rate (%)** throughout the year.
+
 ![Image Alt](https://github.com/syed-masoom/Power-Bi-Project/blob/main/RTO%20Trend.png?raw=true)
 
 ### Key Insights
 
-* This visual shows the monthly trend of the **RTO Rate (%)** throughout the year.
 * The overall RTO rate fluctuates between **12.57% and 15.62%**, indicating a relatively consistent level of returns across the year.
 * **January (15.62%)** recorded the highest RTO rate, followed by **October (14.94%)** and **April (14.93%)**.
 * The lowest RTO rates were observed in **July (12.57%)**, **May (12.66%)**, and **March (12.70%)**.
